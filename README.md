@@ -7,7 +7,7 @@
 
 
 ## 📈 Check my stats!
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?GabrielFelipe42=anuraghazra&show_icons=true&theme=transparent)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielFelipe42&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielFelipe42&layout=Demo&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 
