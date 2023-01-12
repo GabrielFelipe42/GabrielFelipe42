@@ -1,14 +1,9 @@
-## Olá, Eu Sou Gabriel Felipe Cordeiro, Prazer!🤓🖖🏐
-## Hello, I'm Gabriel Felipe Cordeiro, Nice to meet you!🤓🖖🏐
-
-
-### -Minha meta é dominar o front-end...🚀
-### -My goal is to dominate the front end...🚀
+## Olá, Eu Sou Gabriel Felipe Cordeiro, Prazer!
+## Hello, I'm Gabriel Felipe Cordeiro, Nice to meet you!
 
 
 ## 📈 Check my stats!
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielFelipe42&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielFelipe42&layout=Demo&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielFelipe42&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## 💻 Linguagens/Languages:
