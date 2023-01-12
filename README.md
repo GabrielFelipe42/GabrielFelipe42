@@ -7,7 +7,7 @@
 
 
 ## 📈 Check my stats!
-![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielFelipe42&show_icons=true&theme=dracula)
+![Gabriel's GitHub stats](https://github-readme-stats.vercel.app/api?username=[GabrielFelipe42])
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielFelipe42&layout=Demo&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 
