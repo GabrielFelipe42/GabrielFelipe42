@@ -3,7 +3,8 @@
 
 
 ## 📈 Check my stats!
-![Anurag's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=GabrielFelipe42&show_icons=true&theme=radical)
+![Gabriel's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=GabrielFelipe42&show_icons=true&theme=radical)
+![Gabriel's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=GabrielFelipe42&show_icons=true&theme=radical)
 
 
 ## 💻 Linguagens/Languages:
