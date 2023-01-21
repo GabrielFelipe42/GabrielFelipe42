@@ -1,8 +1,8 @@
 ## Olá, Eu Sou Gabriel Felipe Cordeiro, Prazer!
 ## Hello, I'm Gabriel Felipe Cordeiro, Nice to meet you!
 
-## Olhe todos os meus projetos por este Link!!!! https://gabrielfelipe42.github.io/Projeto-Todos-os-Links/
-## Look at all my projects by this Link!!!! https://gabrielfelipe42.github.io/Projeto-Todos-os-Links/
+## Olhe todos os meus projetos por este Link!!!! https://gabrielfelipe42.github.io/Portfolio/
+## Look at all my projects by this Link!!!! https://gabrielfelipe42.github.io/Portfolio/
 
 
 ## 📈 Check my stats!
