@@ -1,9 +1,6 @@
 ## Olá, Eu Sou Gabriel Felipe Cordeiro, Prazer!
 ## Hello, I'm Gabriel Felipe Cordeiro, Nice to meet you!
 
-## Olhe todos os meus projetos por este Link!!!! https://gabrielfelipe42.github.io/Portfolio/
-## Look at all my projects by this Link!!!! https://gabrielfelipe42.github.io/Portfolio/
-
 
 ## 📈 Check my stats!
 ![Gabriel's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=GabrielFelipe42&show_icons=true&theme=radical)
