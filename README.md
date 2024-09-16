@@ -1,5 +1,5 @@
-## Olá, Eu Sou Gabriel Felipe Cordeiro, Prazer!
-## Hello, I'm Gabriel Felipe Cordeiro, Nice to meet you!
+## Olá, Eu Sou Gabriel Silva, Prazer!
+## Hello, I'm Gabriel Silva, Nice to meet you!
 
 
 ## 📈 Check my stats!
