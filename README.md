@@ -1,4 +1,4 @@
-## Hello, I'm Gabriel Silva, Nice to meet you!
+## Hello, I'm Gabriel Silva
 Graduating in the 4th semester of Systems Analysis and Development at Santa Catarina State University (UDESC). Full Stack Developer with a focus on technologies such as React.js, JavaScript, Python. My goal is to work in Full Stack development, seeking experience with new technologies and projects to broaden my knowledge.
 
 ## 📈 Check my stats!
