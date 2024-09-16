@@ -1,11 +1,8 @@
-## Olá, Eu Sou Gabriel Silva, Prazer!
 ## Hello, I'm Gabriel Silva, Nice to meet you!
-
+Graduating in the 4th semester of Systems Analysis and Development at Santa Catarina State University (UDESC). Full Stack Developer with a focus on technologies such as React.js, JavaScript, Python. My goal is to work in Full Stack development, seeking experience with new technologies and projects to broaden my knowledge.
 
 ## 📈 Check my stats!
-![Gabriel's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=GabrielFelipe42&show_icons=true&theme=radical)
 ![Gabriel's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=GabrielFelipe42&show_icons=true&theme=radical)
-
 
 ## 💻 Linguagens/Languages:
 [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)]()
