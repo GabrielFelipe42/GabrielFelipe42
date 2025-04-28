@@ -37,7 +37,7 @@ I am currently in the 4th semester of the Systems Analysis and Development progr
 </p>
 <p style="display: flex; justify-content: center; gap: 10px;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GabrielFelipe42&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2" height="170" style="border-radius: 15px; alt="languages graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GabrielFelipe42&radius=14&theme=dracula&area=true&order=5&hide_border=true&hide_title=false" height="170" style="border-radius: 15px; alt="activity-graph graph"  />
+  
 </p>
 
 ---
@@ -45,9 +45,9 @@ I am currently in the 4th semester of the Systems Analysis and Development progr
 ###
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sophialberton/sophialberton/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sophialberton/sophialberton/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/sophialberton/sophialberton/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GabrielFelipe42/GabrielFelipe42/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GabrielFelipe42/GabrielFelipe42/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/GabrielFelipe42/GabrielFelipe42/output/pacman-contribution-graph.svg">
 </picture>
 
 ---
