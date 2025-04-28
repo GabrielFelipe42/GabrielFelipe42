@@ -47,13 +47,9 @@ I am currently in the 4th semester of the Systems Analysis and Development progr
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GabrielFelipe42/GabrielFelipe42/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GabrielFelipe42/GabrielFelipe42/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/GabrielFelipe42/GabrielFelipe42/output/pacman-contribution-graph.svg">
+  <img alt="Pac-Man contribution graph" src="https://raw.githubusercontent.com/GabrielFelipe42/GabrielFelipe42/output/pacman-contribution-graph.svg">
 </picture>
 
 ---
-<!--img src="https://raw.githubusercontent.com/sophialberton/sophialberton/output/snake.svg" alt="Snake animation" /-->
-
-
-
 
 <div align="center"> <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=150&color=33A1FD&section=footer&reversal=false&textBg=false"/>
