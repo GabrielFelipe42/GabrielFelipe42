@@ -11,33 +11,30 @@
 </<br/>
 
 ---
-I am currently in the 4th semester of the Systems Analysis and Development program at Santa Catarina State University (UDESC). As a Full Stack Developer, I focus on technologies such as React.js, JavaScript, and Python. I seek opportunities to work in Full Stack development, gain experience with new technologies, and broaden my knowledge.
+I am currently in the 5th semester of the Systems Analysis and Development program at Santa Catarina State University (UDESC). As a Full Stack Developer, I focus on technologies such as React.js, JavaScript, and Python. I seek opportunities to work in Full Stack development, gain experience with new technologies, and broaden my knowledge.
 
 ###  Find me here:
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/gabas_fcs/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-felipe-gabas/) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/gabas.pdf/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-felipe-gabas/) 
 
 ---
 
 ###  Languages ​​and Technologies:
 
+  [![python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)]()
   [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)]()
   [![JS](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)]()
-  [![python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)]()
   [![HTML5](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)]()
   [![CSS3](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)]() 
-
----
-
-###  Statistics:
-
-<p style="display: flex; justify-content: center; gap: 10px;">
-  <img src="https://streak-stats.demolab.com?user=GabrielFelipe42&locale=pt-br&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" style="border-radius: 15px; alt="streak graph" />
-  <img src="https://github-readme-stats.vercel.app/api?username=GabrielFelipe42&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=pt-br&hide_border=true&order=1" height="150" style="border-radius: 15px; alt="stats graph"  />
+  
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,nodejs,react,ts,js,html,css,git" />
+  </a>
 </p>
+
 <p style="display: flex; justify-content: center; gap: 10px;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GabrielFelipe42&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=true&order=2" height="170" style="border-radius: 15px; alt="languages graph"  />
-  
 </p>
 
 ---
