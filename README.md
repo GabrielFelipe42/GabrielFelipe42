@@ -39,7 +39,7 @@ I am currently in the 5th semester of the Systems Analysis and Development progr
 
 ---
 
-###
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GabrielFelipe42/GabrielFelipe42/output/pacman-contribution-graph-dark.svg">
